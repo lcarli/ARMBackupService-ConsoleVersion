@@ -12,6 +12,7 @@ var path = @"C:/Temp/";
 var clientId = "{CLIENT_ID}";
 var clientSecret = "{CLIENT_SECRET}";
 var tenantId = "{TENANT_ID}";
+bool getKVSecrets = false;
 
 
 
